@@ -35,5 +35,5 @@ if uploaded_file is not None:
             file_name="image_no_bg.png",
             mime="image/png"
         )
-# Footer
-st.write("Developed by Naveen Kumar.")
+    # Footer
+    st.write("Developed by Naveen Kumar.")
